@@ -1,0 +1,14 @@
+Script started on Fri 29 May 2020 11:54:27 PM WIB
+mohammed.al@badak:~/UAS$ date
+Fri May 29 23:54:46 WIB 2020
+mohammed.al@badak:~/UAS$ gpg2 --list-keys
+/home/fasilkom/mahasiswa/m/mohammed.al/.gnupg/pubring.gpg
+---------------------------------------------------------
+pub   4096R/883D164A 2020-02-23 [expires: 2021-02-22]
+uid       [ultimate] Mohammed Al Kwarizmi (GPG Code) <alkwarizmi.da@gmail.com>
+sub   4096R/D8F95E92 2020-02-23 [expires: 2021-02-22]
+
+mohammed.al@badak:~/UAS$ exit
+exit
+
+Script done on Fri 29 May 2020 11:55:38 PM WIB
