@@ -2,9 +2,9 @@
 
 Jolan Tru! 🙏
 
-### Markdown
+### Profile
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ini adalah profil singkat tentang saya 😁
 
 ```markdown
 
@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 * Saya kuliah di Fasilkom
 
-* Saya senang mempelajari OS :)
+* Saya senang mempelajari OS 😊
 
 * [URL Berguna](URLs/)
 
@@ -20,4 +20,4 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ### Follow or Contact Me
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+See my [INSTAGRAM](https://instagram.com/alkwrzm) and add my [STEAM](https://steamcommunity.com/id/alkwrzm)
