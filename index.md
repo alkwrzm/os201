@@ -10,12 +10,12 @@ Ini adalah profil singkat tentang saya 😁
 
 * Namaku Mohammed Al Kwarizmi
 
-* Saya kuliah di Fasilkom
+* Aku kuliah di Fasilkom
 
-* Saya senang mempelajari OS 😊
+* Aku senang mempelajari Operating System 😊
 
 ```
-Untuk link berguna OS bisa buka ini [URL Berguna](URLs/)
+Untuk link berguna tentang OS bisa buka ini [URL Berguna](URLs/)
 
 ### Follow or Contact Me
 
