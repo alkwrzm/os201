@@ -1,0 +1,43 @@
+Script done, file is 0003-CEK-PAS0.txt
+mohammed.al@badak:~/UAS$ cat 0003-CEK-PAS0.txt
+Script started on Mon 08 Jun 2020 01:29:28 PM WIB
+
+PS1="$ "
+
+echo $GitHubUser
+
+echo $PSmohammed.al@badak:~/UAS$
+mohammed.al@badak:~/UAS$ PS1="$ "
+$
+$ echo $GitHubUser
+
+$
+$ echo $PSTAMP
+TMP1="$(date +%y%m%d-%H%M%S)"; TMP2="$(echo $TMP1-$GitHubUser-${PWD##*/}|sha1sum|cut -c1-4)"; echo "$TMP1-$TMP2-${PWD##*/}/> ";
+$
+$ eval $PSTAMP
+
+PS200608-132928-8940-UAS/>
+$
+$ PS1="\$(eval \$PSTAMP)"
+200608-132956-faa7-UAS/> ls -F
+0000-mypub.txt  0001-mytest.txt  0002-mytest.txt.asc  0003-CEK-PAS0.txt  0003-OSPUB.txt
+200608-133127-82b9-UAS/> sha1sum 0000-mypub.txt 0001-mytest.txt 0002-mytest.txt.asc > SHA1SUM
+200608-133135-0569-UAS/> sha1sum -c SHA1SUM
+0000-mypub.txt: OK
+0001-mytest.txt: OK
+0002-mytest.txt.asc: OK
+200608-133140-f6c0-UAS/> gpg2 -sb -a SHA1SUM
+
+You need a passphrase to unlock the secret key for
+user: "Mohammed Al Kwarizmi (GPG Code) <alkwarizmi.da@gmail.com>"
+4096-bit RSA key, ID 883D164A, created 2020-02-23
+
+200608-133148-7499-UAS/> gpg2 --verify SHA1SUM.asc
+gpg: assuming signed data in 'SHA1SUM'
+gpg: Signature made Mon 08 Jun 2020 01:31:48 PM WIB using RSA key ID 883D164A
+gpg: Good signature from "Mohammed Al Kwarizmi (GPG Code) <alkwarizmi.da@gmail.com>" [ultimate]
+200608-133155-577a-UAS/> exit
+exit
+
+Script done on Mon 08 Jun 2020 01:32:01 PM WIB
