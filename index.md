@@ -4,6 +4,8 @@ Jolan Tru! 🙏
 
 ### Profile
 
+<img src="https://acakadul.files.wordpress.com/2013/08/makara-ui-fasilkom.png" width="256">
+
 Ini adalah profil singkat tentang saya 😁
 
 ```markdown
