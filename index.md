@@ -14,9 +14,8 @@ Ini adalah profil singkat tentang saya 😁
 
 * Saya senang mempelajari OS 😊
 
-* [URL Berguna](URLs/)
-
 ```
+Untuk link berguna OS bisa buka ini [URL Berguna](URLs/)
 
 ### Follow or Contact Me
 
