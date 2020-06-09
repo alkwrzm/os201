@@ -19,6 +19,14 @@ Ini adalah profil singkat tentang saya 😁
 ```
 Untuk link berguna tentang OS bisa buka ini [URL Berguna](URLs/)
 
+### Apa dan Mengapa
+
+* Apa halaman ini?
+Halaman ini untuk Ujian Akhir Semester mata kuliah Sistem Operasi. Akan ada juga halaman berisi urls tentang Sistem Operasi. Bisa dilihat di akhir halaman.
+
+* Mengapa ada halaman ini?
+Karena disuruh dibuat oleh dosen kami tercinta Pak RMS.
+
 ### Follow or Contact Me
 
 See my [INSTAGRAM](https://instagram.com/alkwrzm) and add my [STEAM](https://steamcommunity.com/id/alkwrzm)
