@@ -1,0 +1,326 @@
+Mohammed Al Kwarizmi / B / 1806185405 / alkwrzm
+File: 0004-catatan-OS201.txt
+
+================
+Catatan OS201
+================
+
+
+1) Informasi tambahan didapatkan dari hasil form evaluasi pelaksanaan UAS OS yang sudah disebarkan kepada peserta UAS OS kelas A B C genap 2020
+2) Jumlah pengisi form sebanyak 81 orang
+3) Skala penilaian tingkat pemahaman dari 1 (tidak paham) sampai 5 (sangat paham)
+4) Skala penilaian tingkat kesulitan dari 1 (sangat mudah) sampai 5 (sangat susah)
+
+
+Buat catatan tambahan untuk pelaksanaan
+=================================
+A. Persiapan UAS
+- 100% pengisi form mengikuti dan selesai mengikuti tahap persiapan 
+- 17,3% pengisi form mengalami kendala
+- Tingkat pemahaman mahasiswa terhadap tahap persiapan sebesar 4.012987013 artinya rata-rata mahasiswa paham
+- Tingkat kesulitan tahap persiapan sebesar 2.525641026 artinya mahasiswa cukup mudah mengerjakannya
+
+- Kendala :
+1) Kesulitan dalam memahami beberapa perintah yang diberikan
+2) Mahasiswa lupa cara membuat key dan enkripsi
+3) Tidak tahu cara melakukan beberapa perintah
+4) Jaringan yang kurang baik
+5) Server badak mengalami down pada jam tertentu
+6) Mahasiswa pertama kali membuat script
+
+- Kelebihan :
+1) Cukup mudah dilakukan
+2) Terdapat langkah-langkah yang mudah dipahami 
+3) Bobot nilai yang diberikan sangat membantu
+4) Mudah diakses karena penjelasan berada di scele
+5) Waktu yang diberikan cukup lama
+6) Terdapat log untuk memantau kesalahan
+7) Mempermudah untuk tahap selanjutnya terutama hal-hal teknis
+8) Membuat paham apa yang dilakukan oleh command script
+9) Membantu mahasiswa mengingat kembali materi yang sudah dipelajari
+10) Mahasiswa menjadi paham pembuatan script
+
+- Kekurangan :
+1) Kurangnya penjelasan mengenai tujuan persiapan dan gambaran pelaksanaan UAS
+2) Langkah pengerjaan ditulis bergabung dengan penjelasan persiapan sehingga terlihat terlalu padat
+3) Mahasiswa belum terbiasa dengan penggunaan badak dan github dalam waktu yang bersamaan sehingga mahasiswa pada tahap ini cenderung melakukan copy paste dari badak ke github dengan membuat berkas di github secara langsung, tidak melakukan push melalui badak
+
+
+B. Tahap 1
+- 100% pengisi form mengikuti dan selesai mengikuti tahap persiapan 
+- 32,1% pengisi form mengalami kendala
+- Tingkat pemahaman mahasiswa terhadap tahap 1 sebesar 3.820512821 artinya rata-rata mahasiswa cukup paham 
+- Tingkat kesulitan tahap 1 sebesar 2.756410256 artinya mahasiswa cukup mudah mengerjakannya
+
+- Kendala :
+1) Kemampuan penggunaan terminal pada linux yang kurang menjadi penghambat proses pengerjaan
+2) Kemampuan untuk pembuatan script yang menurut saya sudah cukup advanced yang sangat dibutuhkan disini cukup menghambat proses pengerjaan
+3) Jaringan yang kurang baik
+4) Perbedaan format berkas apabila mengerjakan bukan di server badak
+5) Kesulitan mendapat kelompok
+6) Beberapa mahasiswa belum familiar dengan penggunaan github
+7) Terjadi race condition pada saat absen dan push berkas ke github
+
+- Kelebihan :
+1) Adanya dokumentasi yang diberikan 
+2) Adanya contoh mengenai github pages yang telah memenuhi syarat. Yaitu, pada github cbkadal.
+3) Menjadi tahu bagaimana caranya scripting tingkat lanjut, namun bagusnya lagi hal ini tidak menjadi urgensi mahasiswa karena mahasiswa tetap dapat menyelesaikan tahap ini dengan melakukan pengecekan secara manual
+4) Menjadi tahu bagaimana membuat endpoint baru untuk url pada github pages
+5) Terdapat pemahaman mengenai cara konversi suatu string menggunakan sha1sum
+6) Membantu mahasiswa untuk dapat mengubah web pribadi sesuai keinginan masing dengan menggunakan jekyll dan tema standar yang disediakan oleh github pages
+
+- Kekurangan :
+1) Kurang penjelasan terkait dengan soal yang dimaksud, beberapa seperti contoh SEQNO dan SUMNO yang tidak terdapat pada soal. Hal ini baru dapat diketahui setelah terdapat mahasiswa yang menanyakan melalui forum di scele
+2) Tingkat kesalahan yg tinggi jika dikerjakan secara manual
+3) Bentuk soal kurang rill, sehingga yg bisa menyelesaikan soal tsb belum tentu yau bagaimana cara mengaplikasikanya di kehidupan nyata
+4) Mekanisme pembagian kelompok kurang teratur
+5) Deskripsi tugas seringkali berubah atau revisi selama proses ujian berlangsung
+
+
+C. Tahap 2
+- 97,5% pengisi form boleh mengikuti tahap 2, namun hanya 76,5% pengisi form yang selesai dan mengumpulkan tugas pada tahap 2
+- 55,6% pengisi form mengalami kendala
+- Tingkat pemahaman mahasiswa terhadap tahap 2 sebesar 3.013333333 artinya rata-rata mahasiswa cukup paham 
+- Tingkat kesulitan tahap 2 sebesar 3.706666667 artinya mahasiswa cukup kesulitan mengerjakannya
+
+- Kendala :
+1) Tidak bisa push berkas sehingga berkas tidak terkumpul karena tidak dapat akses kawung dan badak
+2) Tidak biasa membuat program dengan bahasa C
+3) Kurang memahami materi dan sulit mengimplementasikan hal yang sudah dipelajari sehingga lebih lama memahami dibandingkan mengerjakan tugas
+4) Race condition saat pengumpulan berkas
+5) Perubahan yang cukup besar antara tahap 1 dengan tahap 2 yang ternyata tahap 2 jauh lebih rumit dibandingkan tahap 1, membuat mahasiswa kebingungan.
+6) Pada awal pengerjaan sangat terhambat pada implementasi mmap untuk multithreading yang tidak ada pada weekly demo
+7) Kondisi laptop hang
+8) Jaringan yang kurang baik
+9) Bingung jenis GPG yang harus digunakan
+10) Sulit mendapatkan kelompok
+11) Selama daring cukup sulit untuk belajar pemahaman baru
+
+- Kelebihan :
+1) Tugas dilakukan berkelompok sehingga memudahkan mahasiswa untuk diskusi dan bekerja sama
+2) Membuat mahasiswa mampu mengimplementasikan materi shared memory secara langsung
+3) Menjadi lebih tahu bagaimana semafor bekerja untuk menghindari terjadinya race condition dalam mengakses memori yang sama bersamaan
+4) Menjadi lebih tahu bagaimana penggunaan semafor biasa dengan semafor untuk mutex
+5) Menjadi lebih tahu bagaimana cara memetakan sebuah file ke memory di bahasa C dengan menggunakan mmap
+
+- Kekurangan :
+1) Memahami soal lebih susah dibandingkan memahami langsung dengan melihat programnya, penjelasan yang dijelaskan di soal seharusnya dapat lebih jelas tanpa melihat ke program.
+2) Beberapa seperti TIME[16], nilai dari 16 diperoleh darimana kurang jelas, baru menjadi jelas setelah terdapat salah satu peserta ujian yang menanyakan melalui forum di scele 
+3) Tidak sebanding dengan bobot nilai yang diberikan, di mana ketika UTS bobot soal seperti ini adalah 6%
+4) Mekanisme pembagian kelompok kurang teratur
+5) Tidak semua anggota mengerjakan tugas dalam kelompok
+6) Deskripsi tugas seringkali berubah atau revisi selama proses ujian berlangsung
+
+
+D. Tahap 3
+- Tahap 3 merupakan pengembangan lebih lanjut dari tahap 2. 
+- 87,7% pengisi form boleh mengikuti tahap 3, namun hanya 79% pengisi form yang selesai dan mengumpulkan tugas pada tahap 3
+- 32,1% pengisi form mengalami kendala karena pada tahap ini tidak terlalu banyak yang berbeda dari tahap 3
+- Tingkat pemahaman mahasiswa terhadap tahap 3 sebesar 3.101449275 artinya rata-rata mahasiswa cukup paham 
+- Tingkat kesulitan tahap 3 sebesar 3.705882353 artinya mahasiswa cukup kesulitan mengerjakannya karena pada tahap ini merupakan pengembangan lebih lanjut dari tahap 2
+
+- Kendala :
+1) Hanya beberapa orang yang mengerti dan juga aktif dalam kelompok karena sudah dikelompokan berdasarkan status
+2) Sulit untuk mempropagasi revisi saat diminta ke seluruh anggota kelompok. Kadang ada yang sulit dihubungi, menyerah, atau ada keperluan lainnya
+3) Beberapa anggota sulit dihubungi
+4) Jaringan yang kurang baik
+5) Anggota kelompok kurang kooperatif dan tidak memahami materi sehingga perlu bertanya-tanya kepada kelompok lain
+
+- Kelebihan :
+1) Mahasiswa sudah terbiasa dengan tahap 2. Karena mirip dengan tahap 2, maka sudah familiar sehingga lebih mudah untuk mengerjakan tahap 3
+2) Deadline panjang untuk status T3TERM
+
+- Kekurangan :
+1) Ada bagian yang penting tapi ambigu/kurang ditekankan, seperti penamaan file dan sebagainya
+2) Hanya satu file yang diedit sehingga sulit dalam pembagian tugas
+3) Batas kurang jelas antara keterangan soal yang kurang jelas dengan "kreativitas masing masing" sehingga menimbulkan perdebatan
+4) Kurang terlihat batasan tugas tiap anggota dalam kelompok
+5) Banyak hal-hal baru yang belum dijelaskan dalam kodenya sehingga harus eksplorasi mandiri yang cukup sulit
+
+
+E. Tahap 4
+- 37% pengisi form boleh mengikuti tahap 4, namun hanya 35,8% pengisi form yang selesai dan mengumpulkan tugas pada tahap 4
+- 22,2% pengisi form mengalami kendala
+- Tingkat pemahaman mahasiswa terhadap tahap 4 sebesar 2.942857143 artinya rata-rata mahasiswa kurang paham 
+- Tingkat kesulitan tahap 4 sebesar 3.714285714 artinya mahasiswa cukup kesulitan mengerjakannya
+
+- Kendala :
+1) Masalah koordinasi revisi sehingga bisa timbul perbedaan edisi kode
+2) File-file di folder uas-pribadi dan uas-bersama yang harus terus disesuaikan cukup membingungkan dan harus terus-menerus cross check dengan repository cbkadal
+3) Saat menambahkan akun github sebanyak jmlh anggota kelompok dalam code nya, terjadi sedikit error di outputnya
+
+- Kelebihan :
+1) Bobot pengerjaan sesuai dengan materi dan waktu
+2) Mengerti menggunakan semaphore synchronous
+3) Merupakan tugas kelompok jadi bisa saling bantu
+4) Ada beberapa method yang bisa diambil dan dimodifikasi dari soal tahap sebelumnya
+5) Ada penjelasan tentang apa yang harus dikerjakan
+
+- Kekurangan :
+1) Materi yang diujikan sulit, sumber belajar untuk soal hanya materi
+2) Rancu dengan bagian yang boleh diimplementasikan sendiri
+
+
+F. Tahap 5
+- 22,2% pengisi form boleh mengikuti tahap 5, namun hanya 17,3% pengisi form yang selesai dan mengumpulkan tugas pada tahap 5
+- 19,8% pengisi form mengalami kendala
+- Tingkat pemahaman mahasiswa terhadap tahap 5 sebesar 2.192307692 artinya rata-rata mahasiswa kurang paham
+- Tingkat kesulitan tahap 5 sebesar 3.807692308 artinya mahasiswa cukup kesulitan mengerjakannya
+- Tahap tersulit di mana pada tahap ini memiliki tingkat pemahaman yang paling rendah dan tingkat kesulitan yang tertinggi
+
+- Kendala :
+1) Kurang pemahaman tentang FUSE
+2) Kurang mengerti perintah soal dan sulit memahami berkas-berkas yang diberikan
+3) File yang dikumpulkan tidak terdeteksi
+
+- Kelebihan :
+1) Mahasiswa menjadi lebih tahu salah satu implementasi FUSE
+2) Termasuk mudah apabila sudah mengerti materi FUSE
+3) Sudah ada dokumentasi terkait soal
+
+- Kekurangan :
+1) Kurang penjelasan teknis
+2) Dokumentasi terkait soal sulit dimengerti
+3) Perubahan jenis tugas dari kelompok menjadi individu di mana pada tahap 2 - 4 merupakan tugas kelompok
+4) Waktu pengerjaan singkat
+5) Perubahan bobot nilai menjadi bergantung pada hasil pekerjaan
+6) Sumber belajar hanya materi
+
+
+G. Kritik
+- Pelaksanaan UAS OS cukup lama sehingga keluar dari jadwal UAS seharusnya.
+- Tidak menyalahkan implementasi yang berbeda, sedangkan output sudah sama dengan yang diberikan
+- Kekurangan pelatihan demonstrasi dari dosen
+- Karena pengerjaannya kelompok, kemungkinan adanya freerider di kelompok sangat tinggi. Hal ini menyebabkan nilai tinggi tapi tidak sesuai dengan skill OS-nya, namun untuk orang yang mengerti dan menyelesaikan programnya karena kesalahan prosedural seperti enkripsi, sha1sum, salah nama file mendapat nilai kecil
+
+
+H. Saran
+- Pelaksanaannya dipercepat menjadi hanya 1-3 tahap dan jarak antar tahap tidak terlalu lama
+- Dalam sistemnya sudah baik karena diperbarui secara bertahap baik dalam peraturan atau file yang dikumpulkan, namun untuk terkait jadwal bisa lebih dipastikan kembali seperti di awal diberitahu ada berapa tahapan dan tanggal pelaksanaannya sudah ditetapkan di awal sehingga tidak ada pihak yang dirugikan karena pindah waktu
+- Sebaiknya pembentukan kelompok tidak perlu bertahap-tahap, cukup satu orang saja mendaftarkan 1 kelompok
+- Tipe soal dapat dibuat lebih rill dalam artian jelas manfaat serta penggunaanya dikehidupan nyata. Bisa mengangkat masalah masalah yang memang ada di kehidupan nyata
+- Dibuat lebih simple dengan proyek kelompok yang dapat selesai dalam waktu 3-5 hari
+- Sebaiknya Berkas soal pada setiap tahapan dipost di scele dalam bentuk tulisan untuk memudahkan dalam mengakses soal, terutama pada handphone.
+- Tidak menggunakan tahapan-tahapan, melainkan dilaksanakan dalam satu waktu dengan menyertakan seluruh tugas sekaligus, sehingga mahasiswa mendapatkan kesempatan untuk mengerjakan semua tugas tersebut (tidak terhenti karena suatu tahapan)
+- Review pembelajaran jauh hari sebelum ujian
+- Pelaksanaan seperti kelas D / E dengan pelaksanaan ujian selama 2 hari, namun mencakup semua materi
+- Batasan untuk pembagian tugas kerja apabila ujian bersifat kelompok
+
+
+
+Berikan penjelasan (dugaan) berikut ini
+==============================
+A. Scripting 
+Scripting adalah kegiatan menulis serangkaian perintah untuk dieksekusi oleh shell. Scripting dapat menggabungkan perintah yang ingin dilakukan pada bash yang panjang dan berulang dari ke dalam satu script line function call. Hasil Scripting yang disimpan dapat mempermudah user untuk record perintah yang pernah dilakukan dan recalling perintah yang sudah dilakukan. 
+Bash Linux tersedia di hampir semua varian Linux dan tidak memerlukan instalasi terpisah, untuk memulai Scripting dapat menggunakan command "script namafile.txt" namafile.txt adalah file baru yang akan menyimpan hasil dari script tersebut. hasil dari script memuat :
+1. Tanggal dan jam dari "Script started"
+2. Tanggal dan jam dari "Script done"
+3. Tanggal dan jam dari "Prompt"
+Untuk menyelesaikan script dapat menggunakan command "exit" dan hasil script sudah tersimpan pada file baru tadi.
+
+
+B. FUSE 
+FUSE adalah singkatan dari Filesystem in Userspace merupakan suatu software interface pada UNIX. Fitur paling penting dari FUSE adalah FUSE memperbolehkan non-privileged user untuk melakukan mount dengan aman. Biasanya FUSE digunakan untuk membuat virtual file system.  Untuk membuat FUSE ada 3 hal yang harus dibuat, yaitu kernel side module, libfuse, dan aplikasinya
+Untuk mengimplementasikan file system, kita harus menulis program terlebih dahulu yang akan berfungsi untuk melakukan mount pada file system yang baru, merespon jika ada operasi read/write/stat dan program ini juga akan akan tertaut dengan libfuse. Ketika file system berhasil di mount, handler akan teregister dengan kernel dan meneruskan operasi read/write/stat kepada handler untuk dilakukan respon terhadap operasi tersebut.
+
+
+C. Git
+Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi dari source code program Anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti.
+Perintah-perintah dasar git:
+Git init : untuk membuat repository pada file lokal yang nantinya ada folder .git
+Git status : untuk mengetahui status dari repository lokal
+Git add : menambahkan file baru pada repository yang dipilih
+Git commit : untuk menyimpan perubahan yang dilakukan, tetapi tidak ada perubahan pada remote repository.
+Git push : untuk mengirimkan perubahan file setelah di commit ke remote repository.
+Git branch : melihat seluruh branch yang ada pada repository
+Git checkout : menukar branch yang aktif dengan branchyang dipilih
+Git merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
+Git clone : membuat Salinan repository lokal
+
+
+D. GitHub
+GitHub adalah sebuah aplikasi berbasis website dengan Version Control System (VCS) yang menyediakan layanan untuk menyimpan repository dengan gratis. Repository merupakan tempat yang dapat Anda gunakan untuk menyimpan berbagai file berupa source code. Namun tak hanya itu, dengan aplikasi ini Anda juga dapat melakukan kolaborasi dalam mengerjakan project tertentu agar dapat terus melakukan update secara rutin, termasuk melacak dan menyimpan perubahan-perubahan yang terjadi dalam project tersebut. Aplikasi ini termasuk sangat populer dan banyak digunakan termasuk oleh perusahaan-perusahaan besar skala gunia seperti Facebook, Google, dan Twitter.
+
+
+E. GitHub Page
+Github juga memiliki kelebihan berupa Github Pages. Github Pages adalah fasilitas hosting web statis (html, css, javascript) yang diberikan secara gratis dengan subdomain .github.io. Github Pages sangat berguna untuk  membuat dokumentasi misalnya untuk suatu repo karena Github Pages dapat mempublikasikan website dari repo kita dengan mudah dan gratis Github Pages.
+Dan untuk mempublikasikan halaman web di Github page dapat dilakukan dengan beberapa cara :
+Github page dari Root repo
+Github page di folder
+Github page di branch gh-page
+GnuPG
+GnuPG adalah suatu software yang dipakai untuk melakukan proses enkripsi data, dekripsi data , dan penandatanganan digital untuk selanjutnya dilakukan proses pertukaran data antar perangkat. GnuPG juga dikenal sebagai GPG yaitu suatu command line yang dapat dijalankan melalui aplikasi Terminal di setiap sistem operasi dengan fitur easy integration dengan aplikasi lainnya. Enkripsi dengan GPG ini sudah mengimplementasikan standar yang dijelaskan dalam RFC4880 (dikenal juga dengan standar PGP). GPG juga dilengkapi dengan fungsi manajemen kunci keamanan seperti pembuatan kunci, penyuntingan kunci, dan penghapusan kunci keamanan.
+Dengan model enkripsi yang digunakan pada GPG, seseorang pasti mempunyai sepasang kunci keamanan yaitu Private Key dan Public Key. Dimana Private Key adalah kunci enkripsi yang hanya boleh diakses oleh pemilik kunci, sedangkan public key sebisa mungkin harus disebarkan seluas-luasnya.
+
+
+F. SHA1SUM
+sha1sum adalah program komputer yang menghitung dan memverifikasi hash SHA-1. Ini biasanya digunakan untuk memverifikasi integritas file. Ini memungkinkan dibandingkan dengan intisari pesan yang diterbitkan untuk memeriksa apakah file tersebut tidak dimodifikasi dari aslinya. Pada UAS OS genap 2020, file SHA1SUM digunakan sebagai berkas yang menyimpan hash berkas-berkas yang diupload di GitHub. SHA-1 menghasilkan nilai hash 160-bit (20 byte) yang dikenal sebagai intisari pesan. sha1sum di instal secara default di sebagian besar distribusi Linux. Varian termasuk shasum (yang memungkinkan SHA-1 hingga SHA-512 fungsi hash untuk dipilih secara manual), sha224sum, sha256sum, sha384sum dan sha512sum, yang menggunakan fungsi hash SHA-2 tertentu, dan sha3sum (yang memungkinkan SHA-3 melalui SHA3- 512, SHAKE, RawSHAKE, dan Keccak berfungsi untuk dipilih secara manual).
+
+
+G. SHA1SUM.asc
+Format .asc sendiri merupakan format untuk berkas ASCII lapis baja yang digunakan oleh suatu software yang dipakai untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode otentikasi. Oleh karena itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
+
+
+
+Bahas dari sudut pandang peserta OS201, berkas berikut ini:
+https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
+=================================================================
+A. Tantangan
+Modifikasi terhadap tata cara pengumpulan hasil ujian berhasil dilakukan sehingga membuat ujian menjadi lebih sulit. Kesalahan prosedur yang dilakukan peserta menjadi salah satu kendala yang banyak dialami peserta. Hal ini menyebabkan peserta yang seharusnya dapat lolos suatu tahap menjadi berhenti di tahap tersebut walaupun diberi kesempatan mengulang tahap yang gagal. Terlalu banyak prosedural juga membuat semakin lama waktu peserta untuk mengikuti prosedur tersebut dibandingkan mengerjakan soal yang diberikan. 
+
+
+B. Study From Home
+Pelaksanaan study from home mata kuliah OS ini menurut saya belum efektif. Materi sudah bagus disampaikan melalui video pembelajaran yang di unggah di YouTube, namun peserta kurang mengerti cara implementasi materi tersebut pada permasalahan yang sebenarnya. Hal ini dapat diketahui melalui feedback pelaksanaan UAS OS. Peserta perlu waktu yang lama untuk memahami implementasi materi yang sudah diajarkan. 
+
+
+C. Windows 10 & Font
+Peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda dengan sistem di badak. 
+
+
+D. Github
+Tidak semua peserta terbiasa menggunakan Github. Hal ini dapat terlihat dari banyak peserta yang awalnya melakukan pembuatan berkas yang secara langsung di Github dan tidak menggunakan metode push melalui badak. Metode tersebut masih belum bermasalah selama penggunaan sebelum UTS sampai sebelum UAS karena penggunaan Github hanya untuk pembuatan log hadir dan telah melakukan demo. Peserta mulai menggunakan metode push melalui badak pada saat pelaksanaan UAS OS karena terdapat format text yang berbeda apabila melakukan pembuatan berkas secara langsung di Github dan copy paste isinya yang diambil dari berkas di badak. 
+
+
+E. Github page
+Mayoritas peserta tidak mengetahui mengenai Github page dan cara pembuatannya. Oleh karena itu, beberapa peserta mengalami kendala dalam pembuatan Github page walaupun sudah diberikan referensi cara pembuatan github page dan contoh github page yang sudah terbuat. Kendala yang terjadi salah satunya yaitu peserta terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page terlihat. Peserta beberapa kali merasa kebingungan apakah memang Github page nya belum ke load atau salah pada code yang ditulis. Salah satu alasan peserta membuat Github page yang minimalis karena keterbatasan waktu di mana peserta lebih banyak memahami cara pembuatan Github page dibandingkan membuatnya. Namun, peserta mendapatkan pengetahuan baru mengenai Github pages themes salah satunya yaitu Jekyll, Markdown untuk mengatur style dari text sesuai keinginan, YAML bahasa serialisasi data yang dapat dibaca manusia, dan Front matter untuk mengatur variabel dan metadata seperti judul dan tata letak, halaman atau posting di situs peserta.
+
+
+F. GNUPG
+Penggunaan versi gpg yang berbeda membuat peserta bingung. Terdapat perbedaan fungsi apabila menggunakan versi gpg yang berbeda sehingga peserta hanya mengikuti instruksi yang berikan tanpa mengerti perbedaan fungsi dari versi gpg yang digunakan. Untuk gpg2 sepertinya tidak melihat kunci pribadi yang gpg melihatnya. Misalnya, gpg2 --list-secret-keys tidak memberikan output, tetapi gpg --list-secret-keys memberikan output. Beberapa peserta mengalami kesalahan pada berkas 0000-mypub.txt, salah satunya karena peserta membuat berkas secara langsung di github dan copy paste isi berkas dari badak sehingga ada beberapa bagian yang terpotong dan tidak terbaca oleh sistem. Selain itu, beberapa peserta memiliki key lebih dari 1 key dan mencantumkan lebih dari 1 key pada berkas 0000-mypub.txt , sedangkan yang perintah hanya menginginkan 1 key dan harus key tersebut yang akan dipakai. Kesalahan lainnya yaitu terdapat secret key pada 0000-mypub.txt karena secret key hanya boleh diakses oleh pemilik kunci, sedangkan berkas perlu dibaca oleh dosen. Gpg ini dapat digunakan untuk enkripsi baik dengan atau tanpa tanda tangan, sehingga mahasiswa perlu lebih teliti membaca perintah yang diberikan untuk membedakan berkas yang perlu ditandatangani juga atau hanya enkripsi saja. Pada pelakanaan UAS OS, peserta juga mendapatkan pemahaman baru mengenai clear sign yaitu peserta dapat menandatangani berkas dalam bentuk clear text.
+
+
+G. SHA1SUM dan SHA1SUM.asc
+Mayoritas peserta baru mengenal dan mengetahui tentang sha1sum dan sha1sum.asc pada saat pelaksanaan UAS OS. sha1sum merupakan berkas yang menyimpan hash berkas-berkas yang diupload di GitHub. sha1sum.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada. sebelum pelaksanaan UAS OS, dosen memberikan arahan untuk memahami mengenai gpg dan sha1sum, serta memberikan contoh penggunaan keduanya melalui forum diskusi SCELE. Namun, mayoritas peserta hanya mengikuti contoh tanpa memahami terlebih dahulu penggunaan gpg dan sha1sum. sha1sum dan sha1sum.asc perlu dibuat ulang setiap ada perubahan. Beberapa peserta mengalami kesalahan pada sha1sum dan sha1sum.asc karena kurang mengerti kegunaan keduanya sehingga tidak membuat ulang setiap ada perubahan. 
+
+
+H. Race Condition
+Race condition terjadi awalnya pada saat absen yang dilakukan di forum SCELE untuk kebutuhan absen tiap minggunya selama masa pembelajaran jarak jauh. Kemudian, beberapa peserta memberi saran untuk absen melalui github. Awalnya absen cukup berjalan lancar karena waktu untuk absen cukup panjang sehingga peserta tidak terburu-buru untuk absen secara berbarengan. Namun, race condition tetap terjadi terutama saat absen untuk pelaksanaan UAS OS karena waktu absen yang cukup sempit.
+
+
+I. Absen
+Pada absen mingguan selama masa pembelajaran jarak jauh, beberapa peserta absen terlambat karena tidak mengetahui batasan waktu terakhir absen dan tidak melihat SCELE secara berkala. Selain itu, beberapa peserta menganggap lebih baik absen lebih lambat untuk menghindari race condition.
+
+
+J. SCELE
+Frekuensi peserta melihat SCELE sangat jarang karena adanya WhatsApp group sehingga peserta cenderung membuka SCELE apabila ada pemberitahuan melalui WhatsApp group. Peserta biasanya akan melihat SCELE apabila ingin absen dan melihat materi pada waktu pembelajaran di mana terjadi 2 kali seminggu, selain waktu pembelajaran peserta cenderung tidak melihat SCELE kecuali ada informasi penting yang disampaikan melalui WhatsApp Group.Terlalu banyak thread pada forum di scele terkadang membuat peserta kebingungan untuk mencari suatu informasi pada forum. Forum SCELE cukup baik penggunaannya untuk diskusi dan tanya jawab karena tidak akan hilang informasinya kecuali dihapus, serta pembahasan untuk kasus yang berbeda dapat dibuat dengan thread yang berbeda.
+
+
+K. WhatsApp group
+Penggunaan WhatsApp group cukup efektif untuk memberitahu terkait informasi penting. Hal ini dikarenakan WhatsApp group memberikan notifikasi apabila terdapat pesan masuk, sedangkan SCELE tidak memberikan notifikasi. Peserta cenderung cepat tanggap terhadap informasi apabila terdapat notifikasi. WhatsApp group kurang baik penggunaannya untuk diskusi dan tanya jawab karena pembahasan akan terus tertimbun apabila ada pesan masuk.
+
+
+L. Zoom
+Penggunaan zoom pada pelaksanaan mata kuliah OS genap 2020 hanya beberapa kali untuk sesi tanya jawab. Beberapa peserta cenderung lebih suka apabila materi atau demo disampaikan secara langsung melalui zoom. Hal ini dikarenakan mahasiswa dapat bertanya secara langsung apabila terdapat hal yang membingungkan dan dapat terjawab sampai jelas.
+
+
+M. Youtube
+Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat berguna untuk pemahaman saat pelaksanaan UAS seperti pada mata kuliah OS genap 2020. Selain itu, peserta dapat mengulang kembali video apabila ingin memahami lebih dalam kapan saja.
+
+
+N. Email
+Penggunaan email sudah tepat untuk permasalahan penting yang bukan terkait materi pembelajaran. Penggunaan subjek [HELP] juga penting untuk menunjukkan bahwa email tersebut penting dan dapat membedakan dengan email lainnya.
+
+
+O. Scripting
+Scripting berfungsi untuk menyimpan sekumpulan instruksi pemrograman yang ditafsirkan pada saat runtime. Pada penggunaan di mata kuliah OS ini, hasil scripting juga dapat menjadi alat pengecekan bahwa peserta mengerjakan secara mandiri dan pada waktu yang benar. Namun, mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy dan paste.
+
