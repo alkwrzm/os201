@@ -1,3 +1,6 @@
+REV01 WED AUG 05 08:46:00 WIB 2020
+===================================
+
 Mohammed Al Kwarizmi / B / 1806185405 / alkwrzm
 File: 0004-catatan-OS201.txt
 
@@ -14,11 +17,10 @@ Catatan OS201
 
 Buat catatan tambahan untuk pelaksanaan
 =================================
+
+Note: Catatan berdasarkan hasil survey yang dibuat oleh tim extraOS201 dan diisi oleh para mahasiswa OS201
+
 A. Persiapan UAS
-- 100% pengisi form mengikuti dan selesai mengikuti tahap persiapan 
-- 17,3% pengisi form mengalami kendala
-- Tingkat pemahaman mahasiswa terhadap tahap persiapan sebesar 4.012987013 artinya rata-rata mahasiswa paham
-- Tingkat kesulitan tahap persiapan sebesar 2.525641026 artinya mahasiswa cukup mudah mengerjakannya
 
 - Kendala :
 1) Kesulitan dalam memahami beberapa perintah yang diberikan
@@ -36,9 +38,7 @@ A. Persiapan UAS
 5) Waktu yang diberikan cukup lama
 6) Terdapat log untuk memantau kesalahan
 7) Mempermudah untuk tahap selanjutnya terutama hal-hal teknis
-8) Membuat paham apa yang dilakukan oleh command script
-9) Membantu mahasiswa mengingat kembali materi yang sudah dipelajari
-10) Mahasiswa menjadi paham pembuatan script
+
 
 - Kekurangan :
 1) Kurangnya penjelasan mengenai tujuan persiapan dan gambaran pelaksanaan UAS
@@ -47,10 +47,6 @@ A. Persiapan UAS
 
 
 B. Tahap 1
-- 100% pengisi form mengikuti dan selesai mengikuti tahap persiapan 
-- 32,1% pengisi form mengalami kendala
-- Tingkat pemahaman mahasiswa terhadap tahap 1 sebesar 3.820512821 artinya rata-rata mahasiswa cukup paham 
-- Tingkat kesulitan tahap 1 sebesar 2.756410256 artinya mahasiswa cukup mudah mengerjakannya
 
 - Kendala :
 1) Kemampuan penggunaan terminal pada linux yang kurang menjadi penghambat proses pengerjaan
@@ -78,10 +74,6 @@ B. Tahap 1
 
 
 C. Tahap 2
-- 97,5% pengisi form boleh mengikuti tahap 2, namun hanya 76,5% pengisi form yang selesai dan mengumpulkan tugas pada tahap 2
-- 55,6% pengisi form mengalami kendala
-- Tingkat pemahaman mahasiswa terhadap tahap 2 sebesar 3.013333333 artinya rata-rata mahasiswa cukup paham 
-- Tingkat kesulitan tahap 2 sebesar 3.706666667 artinya mahasiswa cukup kesulitan mengerjakannya
 
 - Kendala :
 1) Tidak bisa push berkas sehingga berkas tidak terkumpul karena tidak dapat akses kawung dan badak
@@ -113,13 +105,8 @@ C. Tahap 2
 
 
 D. Tahap 3
-- Tahap 3 merupakan pengembangan lebih lanjut dari tahap 2. 
-- 87,7% pengisi form boleh mengikuti tahap 3, namun hanya 79% pengisi form yang selesai dan mengumpulkan tugas pada tahap 3
-- 32,1% pengisi form mengalami kendala karena pada tahap ini tidak terlalu banyak yang berbeda dari tahap 3
-- Tingkat pemahaman mahasiswa terhadap tahap 3 sebesar 3.101449275 artinya rata-rata mahasiswa cukup paham 
-- Tingkat kesulitan tahap 3 sebesar 3.705882353 artinya mahasiswa cukup kesulitan mengerjakannya karena pada tahap ini merupakan pengembangan lebih lanjut dari tahap 2
 
-- Kendala :
+Kendala :
 1) Hanya beberapa orang yang mengerti dan juga aktif dalam kelompok karena sudah dikelompokan berdasarkan status
 2) Sulit untuk mempropagasi revisi saat diminta ke seluruh anggota kelompok. Kadang ada yang sulit dihubungi, menyerah, atau ada keperluan lainnya
 3) Beberapa anggota sulit dihubungi
@@ -139,10 +126,6 @@ D. Tahap 3
 
 
 E. Tahap 4
-- 37% pengisi form boleh mengikuti tahap 4, namun hanya 35,8% pengisi form yang selesai dan mengumpulkan tugas pada tahap 4
-- 22,2% pengisi form mengalami kendala
-- Tingkat pemahaman mahasiswa terhadap tahap 4 sebesar 2.942857143 artinya rata-rata mahasiswa kurang paham 
-- Tingkat kesulitan tahap 4 sebesar 3.714285714 artinya mahasiswa cukup kesulitan mengerjakannya
 
 - Kendala :
 1) Masalah koordinasi revisi sehingga bisa timbul perbedaan edisi kode
@@ -162,11 +145,6 @@ E. Tahap 4
 
 
 F. Tahap 5
-- 22,2% pengisi form boleh mengikuti tahap 5, namun hanya 17,3% pengisi form yang selesai dan mengumpulkan tugas pada tahap 5
-- 19,8% pengisi form mengalami kendala
-- Tingkat pemahaman mahasiswa terhadap tahap 5 sebesar 2.192307692 artinya rata-rata mahasiswa kurang paham
-- Tingkat kesulitan tahap 5 sebesar 3.807692308 artinya mahasiswa cukup kesulitan mengerjakannya
-- Tahap tersulit di mana pada tahap ini memiliki tingkat pemahaman yang paling rendah dan tingkat kesulitan yang tertinggi
 
 - Kendala :
 1) Kurang pemahaman tentang FUSE
@@ -210,6 +188,7 @@ H. Saran
 
 Berikan penjelasan (dugaan) berikut ini
 ==============================
+
 A. Scripting 
 Scripting adalah kegiatan menulis serangkaian perintah untuk dieksekusi oleh shell. Scripting dapat menggabungkan perintah yang ingin dilakukan pada bash yang panjang dan berulang dari ke dalam satu script line function call. Hasil Scripting yang disimpan dapat mempermudah user untuk record perintah yang pernah dilakukan dan recalling perintah yang sudah dilakukan. 
 Bash Linux tersedia di hampir semua varian Linux dan tidak memerlukan instalasi terpisah, untuk memulai Scripting dapat menggunakan command "script namafile.txt" namafile.txt adalah file baru yang akan menyimpan hasil dari script tersebut. hasil dari script memuat :
@@ -218,11 +197,9 @@ Bash Linux tersedia di hampir semua varian Linux dan tidak memerlukan instalasi 
 3. Tanggal dan jam dari "Prompt"
 Untuk menyelesaikan script dapat menggunakan command "exit" dan hasil script sudah tersimpan pada file baru tadi.
 
-
 B. FUSE 
 FUSE adalah singkatan dari Filesystem in Userspace merupakan suatu software interface pada UNIX. Fitur paling penting dari FUSE adalah FUSE memperbolehkan non-privileged user untuk melakukan mount dengan aman. Biasanya FUSE digunakan untuk membuat virtual file system.  Untuk membuat FUSE ada 3 hal yang harus dibuat, yaitu kernel side module, libfuse, dan aplikasinya
 Untuk mengimplementasikan file system, kita harus menulis program terlebih dahulu yang akan berfungsi untuk melakukan mount pada file system yang baru, merespon jika ada operasi read/write/stat dan program ini juga akan akan tertaut dengan libfuse. Ketika file system berhasil di mount, handler akan teregister dengan kernel dan meneruskan operasi read/write/stat kepada handler untuk dilakukan respon terhadap operasi tersebut.
-
 
 C. Git
 Git adalah version control system yang digunakan para developer untuk mengembangkan software secara bersama-bersama. Fungsi utama git yaitu mengatur versi dari source code program Anda dengan mengasih tanda baris dan code mana yang ditambah atau diganti.
@@ -237,10 +214,8 @@ Git checkout : menukar branch yang aktif dengan branchyang dipilih
 Git merge : untuk menggabungkan branch yang aktif dan branch yang dipilih
 Git clone : membuat Salinan repository lokal
 
-
 D. GitHub
 GitHub adalah sebuah aplikasi berbasis website dengan Version Control System (VCS) yang menyediakan layanan untuk menyimpan repository dengan gratis. Repository merupakan tempat yang dapat Anda gunakan untuk menyimpan berbagai file berupa source code. Namun tak hanya itu, dengan aplikasi ini Anda juga dapat melakukan kolaborasi dalam mengerjakan project tertentu agar dapat terus melakukan update secara rutin, termasuk melacak dan menyimpan perubahan-perubahan yang terjadi dalam project tersebut. Aplikasi ini termasuk sangat populer dan banyak digunakan termasuk oleh perusahaan-perusahaan besar skala gunia seperti Facebook, Google, dan Twitter.
-
 
 E. GitHub Page
 Github juga memiliki kelebihan berupa Github Pages. Github Pages adalah fasilitas hosting web statis (html, css, javascript) yang diberikan secara gratis dengan subdomain .github.io. Github Pages sangat berguna untuk  membuat dokumentasi misalnya untuk suatu repo karena Github Pages dapat mempublikasikan website dari repo kita dengan mudah dan gratis Github Pages.
@@ -248,79 +223,14 @@ Dan untuk mempublikasikan halaman web di Github page dapat dilakukan dengan bebe
 Github page dari Root repo
 Github page di folder
 Github page di branch gh-page
-GnuPG
+
+F. GnuPG
 GnuPG adalah suatu software yang dipakai untuk melakukan proses enkripsi data, dekripsi data , dan penandatanganan digital untuk selanjutnya dilakukan proses pertukaran data antar perangkat. GnuPG juga dikenal sebagai GPG yaitu suatu command line yang dapat dijalankan melalui aplikasi Terminal di setiap sistem operasi dengan fitur easy integration dengan aplikasi lainnya. Enkripsi dengan GPG ini sudah mengimplementasikan standar yang dijelaskan dalam RFC4880 (dikenal juga dengan standar PGP). GPG juga dilengkapi dengan fungsi manajemen kunci keamanan seperti pembuatan kunci, penyuntingan kunci, dan penghapusan kunci keamanan.
 Dengan model enkripsi yang digunakan pada GPG, seseorang pasti mempunyai sepasang kunci keamanan yaitu Private Key dan Public Key. Dimana Private Key adalah kunci enkripsi yang hanya boleh diakses oleh pemilik kunci, sedangkan public key sebisa mungkin harus disebarkan seluas-luasnya.
 
-
-F. SHA1SUM
+G. SHA1SUM
 sha1sum adalah program komputer yang menghitung dan memverifikasi hash SHA-1. Ini biasanya digunakan untuk memverifikasi integritas file. Ini memungkinkan dibandingkan dengan intisari pesan yang diterbitkan untuk memeriksa apakah file tersebut tidak dimodifikasi dari aslinya. Pada UAS OS genap 2020, file SHA1SUM digunakan sebagai berkas yang menyimpan hash berkas-berkas yang diupload di GitHub. SHA-1 menghasilkan nilai hash 160-bit (20 byte) yang dikenal sebagai intisari pesan. sha1sum di instal secara default di sebagian besar distribusi Linux. Varian termasuk shasum (yang memungkinkan SHA-1 hingga SHA-512 fungsi hash untuk dipilih secara manual), sha224sum, sha256sum, sha384sum dan sha512sum, yang menggunakan fungsi hash SHA-2 tertentu, dan sha3sum (yang memungkinkan SHA-3 melalui SHA3- 512, SHAKE, RawSHAKE, dan Keccak berfungsi untuk dipilih secara manual).
 
-
-G. SHA1SUM.asc
+H. SHA1SUM.asc
 Format .asc sendiri merupakan format untuk berkas ASCII lapis baja yang digunakan oleh suatu software yang dipakai untuk melakukan proses enkripsi data seperti PGP atau GnuPG. File tersebut berisi pesan yang ditandatangani secara digital dan dapat menyimpan informasi tertulis teks biasa, serta informasi biner yang disandikan sebagai teks. File ASC juga menyertakan kunci sebagai teks yang ditandatangani jelas, yang dapat diverifikasi menggunakan metode otentikasi. Oleh karena itu SHA1SUM.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada.
-
-
-
-Bahas dari sudut pandang peserta OS201, berkas berikut ini:
-https://rahmatm.samik-ibrahim.vlsm.org/2020/07/exam-from-home-pertama-kali.html
-=================================================================
-A. Tantangan
-Modifikasi terhadap tata cara pengumpulan hasil ujian berhasil dilakukan sehingga membuat ujian menjadi lebih sulit. Kesalahan prosedur yang dilakukan peserta menjadi salah satu kendala yang banyak dialami peserta. Hal ini menyebabkan peserta yang seharusnya dapat lolos suatu tahap menjadi berhenti di tahap tersebut walaupun diberi kesempatan mengulang tahap yang gagal. Terlalu banyak prosedural juga membuat semakin lama waktu peserta untuk mengikuti prosedur tersebut dibandingkan mengerjakan soal yang diberikan. 
-
-
-B. Study From Home
-Pelaksanaan study from home mata kuliah OS ini menurut saya belum efektif. Materi sudah bagus disampaikan melalui video pembelajaran yang di unggah di YouTube, namun peserta kurang mengerti cara implementasi materi tersebut pada permasalahan yang sebenarnya. Hal ini dapat diketahui melalui feedback pelaksanaan UAS OS. Peserta perlu waktu yang lama untuk memahami implementasi materi yang sudah diajarkan. 
-
-
-C. Windows 10 & Font
-Peserta tidak biasa dalam penggunaan sistem di badak. Oleh karena itu, peserta banyak yang melakukan di media lain yang memiliki format text berbeda dengan sistem di badak. 
-
-
-D. Github
-Tidak semua peserta terbiasa menggunakan Github. Hal ini dapat terlihat dari banyak peserta yang awalnya melakukan pembuatan berkas yang secara langsung di Github dan tidak menggunakan metode push melalui badak. Metode tersebut masih belum bermasalah selama penggunaan sebelum UTS sampai sebelum UAS karena penggunaan Github hanya untuk pembuatan log hadir dan telah melakukan demo. Peserta mulai menggunakan metode push melalui badak pada saat pelaksanaan UAS OS karena terdapat format text yang berbeda apabila melakukan pembuatan berkas secara langsung di Github dan copy paste isinya yang diambil dari berkas di badak. 
-
-
-E. Github page
-Mayoritas peserta tidak mengetahui mengenai Github page dan cara pembuatannya. Oleh karena itu, beberapa peserta mengalami kendala dalam pembuatan Github page walaupun sudah diberikan referensi cara pembuatan github page dan contoh github page yang sudah terbuat. Kendala yang terjadi salah satunya yaitu peserta terkadang harus menunggu agak lama agar perubahan yang dilakukan pada Github page terlihat. Peserta beberapa kali merasa kebingungan apakah memang Github page nya belum ke load atau salah pada code yang ditulis. Salah satu alasan peserta membuat Github page yang minimalis karena keterbatasan waktu di mana peserta lebih banyak memahami cara pembuatan Github page dibandingkan membuatnya. Namun, peserta mendapatkan pengetahuan baru mengenai Github pages themes salah satunya yaitu Jekyll, Markdown untuk mengatur style dari text sesuai keinginan, YAML bahasa serialisasi data yang dapat dibaca manusia, dan Front matter untuk mengatur variabel dan metadata seperti judul dan tata letak, halaman atau posting di situs peserta.
-
-
-F. GNUPG
-Penggunaan versi gpg yang berbeda membuat peserta bingung. Terdapat perbedaan fungsi apabila menggunakan versi gpg yang berbeda sehingga peserta hanya mengikuti instruksi yang berikan tanpa mengerti perbedaan fungsi dari versi gpg yang digunakan. Untuk gpg2 sepertinya tidak melihat kunci pribadi yang gpg melihatnya. Misalnya, gpg2 --list-secret-keys tidak memberikan output, tetapi gpg --list-secret-keys memberikan output. Beberapa peserta mengalami kesalahan pada berkas 0000-mypub.txt, salah satunya karena peserta membuat berkas secara langsung di github dan copy paste isi berkas dari badak sehingga ada beberapa bagian yang terpotong dan tidak terbaca oleh sistem. Selain itu, beberapa peserta memiliki key lebih dari 1 key dan mencantumkan lebih dari 1 key pada berkas 0000-mypub.txt , sedangkan yang perintah hanya menginginkan 1 key dan harus key tersebut yang akan dipakai. Kesalahan lainnya yaitu terdapat secret key pada 0000-mypub.txt karena secret key hanya boleh diakses oleh pemilik kunci, sedangkan berkas perlu dibaca oleh dosen. Gpg ini dapat digunakan untuk enkripsi baik dengan atau tanpa tanda tangan, sehingga mahasiswa perlu lebih teliti membaca perintah yang diberikan untuk membedakan berkas yang perlu ditandatangani juga atau hanya enkripsi saja. Pada pelakanaan UAS OS, peserta juga mendapatkan pemahaman baru mengenai clear sign yaitu peserta dapat menandatangani berkas dalam bentuk clear text.
-
-
-G. SHA1SUM dan SHA1SUM.asc
-Mayoritas peserta baru mengenal dan mengetahui tentang sha1sum dan sha1sum.asc pada saat pelaksanaan UAS OS. sha1sum merupakan berkas yang menyimpan hash berkas-berkas yang diupload di GitHub. sha1sum.asc merupakan berkas dimana berisi sebuah hasil enkripsi SHA1SUM yang nantinya dapat diverifikasi dan didekripsi (oleh yang berhak) untuk melihat informasi asli yang ada. sebelum pelaksanaan UAS OS, dosen memberikan arahan untuk memahami mengenai gpg dan sha1sum, serta memberikan contoh penggunaan keduanya melalui forum diskusi SCELE. Namun, mayoritas peserta hanya mengikuti contoh tanpa memahami terlebih dahulu penggunaan gpg dan sha1sum. sha1sum dan sha1sum.asc perlu dibuat ulang setiap ada perubahan. Beberapa peserta mengalami kesalahan pada sha1sum dan sha1sum.asc karena kurang mengerti kegunaan keduanya sehingga tidak membuat ulang setiap ada perubahan. 
-
-
-H. Race Condition
-Race condition terjadi awalnya pada saat absen yang dilakukan di forum SCELE untuk kebutuhan absen tiap minggunya selama masa pembelajaran jarak jauh. Kemudian, beberapa peserta memberi saran untuk absen melalui github. Awalnya absen cukup berjalan lancar karena waktu untuk absen cukup panjang sehingga peserta tidak terburu-buru untuk absen secara berbarengan. Namun, race condition tetap terjadi terutama saat absen untuk pelaksanaan UAS OS karena waktu absen yang cukup sempit.
-
-
-I. Absen
-Pada absen mingguan selama masa pembelajaran jarak jauh, beberapa peserta absen terlambat karena tidak mengetahui batasan waktu terakhir absen dan tidak melihat SCELE secara berkala. Selain itu, beberapa peserta menganggap lebih baik absen lebih lambat untuk menghindari race condition.
-
-
-J. SCELE
-Frekuensi peserta melihat SCELE sangat jarang karena adanya WhatsApp group sehingga peserta cenderung membuka SCELE apabila ada pemberitahuan melalui WhatsApp group. Peserta biasanya akan melihat SCELE apabila ingin absen dan melihat materi pada waktu pembelajaran di mana terjadi 2 kali seminggu, selain waktu pembelajaran peserta cenderung tidak melihat SCELE kecuali ada informasi penting yang disampaikan melalui WhatsApp Group.Terlalu banyak thread pada forum di scele terkadang membuat peserta kebingungan untuk mencari suatu informasi pada forum. Forum SCELE cukup baik penggunaannya untuk diskusi dan tanya jawab karena tidak akan hilang informasinya kecuali dihapus, serta pembahasan untuk kasus yang berbeda dapat dibuat dengan thread yang berbeda.
-
-
-K. WhatsApp group
-Penggunaan WhatsApp group cukup efektif untuk memberitahu terkait informasi penting. Hal ini dikarenakan WhatsApp group memberikan notifikasi apabila terdapat pesan masuk, sedangkan SCELE tidak memberikan notifikasi. Peserta cenderung cepat tanggap terhadap informasi apabila terdapat notifikasi. WhatsApp group kurang baik penggunaannya untuk diskusi dan tanya jawab karena pembahasan akan terus tertimbun apabila ada pesan masuk.
-
-
-L. Zoom
-Penggunaan zoom pada pelaksanaan mata kuliah OS genap 2020 hanya beberapa kali untuk sesi tanya jawab. Beberapa peserta cenderung lebih suka apabila materi atau demo disampaikan secara langsung melalui zoom. Hal ini dikarenakan mahasiswa dapat bertanya secara langsung apabila terdapat hal yang membingungkan dan dapat terjawab sampai jelas.
-
-
-M. Youtube
-Materi yang disampaikan mudah diterima, namun kurang banyak contoh demo yang diberikan. Contoh demo akan sangat berguna untuk pemahaman saat pelaksanaan UAS seperti pada mata kuliah OS genap 2020. Selain itu, peserta dapat mengulang kembali video apabila ingin memahami lebih dalam kapan saja.
-
-
-N. Email
-Penggunaan email sudah tepat untuk permasalahan penting yang bukan terkait materi pembelajaran. Penggunaan subjek [HELP] juga penting untuk menunjukkan bahwa email tersebut penting dan dapat membedakan dengan email lainnya.
-
-
-O. Scripting
-Scripting berfungsi untuk menyimpan sekumpulan instruksi pemrograman yang ditafsirkan pada saat runtime. Pada penggunaan di mata kuliah OS ini, hasil scripting juga dapat menjadi alat pengecekan bahwa peserta mengerjakan secara mandiri dan pada waktu yang benar. Namun, mayoritas peserta tidak memahami maksud dari langkah-langkah scripting sebelumnya sehingga peserta hanya mengikuti langkah-langkah yang diberikan dengan cara copy dan paste.
 
