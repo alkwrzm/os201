@@ -11,7 +11,18 @@ Pelaksanaan OS201
 1) Buat sebuah catatan singkat pelaksanaan mata ajar OS selama semester ini.
 ============================================================================
 
-Pelaksanaan pembelajaran mata kuliah Operation System (OS) pada semester ini dilakukan dengan 2 metode, yaitu diawali dengan melakukan pertemuan tatap muka seperti proses pembelajaran pada umumnya lalu, menggunakan metode Online atau pembelajaran jarak jauh (PJJ) yang dimulai setelah UTS akibat munculnya pandemi COVID-19 yang membuat setiap proses perkuliahan terganggu. Seluruh materi, informasi, dan juga latihan soal untuk mata kuliah OS dapat diakses di https://os.vlsm.org/. Mata kuliah OS sendiri mempunyai fasilitas demo untuk memfasilitasi serta mendukung para mahasiswa untuk mempelajari setiap materi serta dapat dituntaskan guna mendapatkan pemahaman dan pendalaman materi. Mencoba dan memahami demo merupakan kegiatan kami selaku mahasiswa mata kuliah OS untuk setiap minggunya. Selain mengerjakan demo yang disediakan, kami juga membuat sebuah memo berkala untuk mencatat apa saja yang telah kami pelajari untuk setiap minggunya. Selain itu, dibuat pula grup WhatsApp untuk memperlancar komunikasi dengan dosen serta menyimpan dokumentasi hasil pembelajaran di kelas (foto papan tulis). Untuk pembelajaran pada masa PJJ, pertemuan kelas yang biasanya dilakukan 2x seminggu diganti dengan diskusi pada forum di scele. Dosen juga menyediakan video pembelajaran online untuk memperdalam pemahaman mahasiswa.
+Pelaksanaan pembelajaran mata kuliah Operation System (OS) pada semester ini dilakukan dengan 2 metode, 
+yaitu diawali dengan melakukan pertemuan tatap muka seperti proses pembelajaran pada umumnya lalu, menggunakan 
+metode Online atau pembelajaran jarak jauh (PJJ) yang dimulai setelah UTS akibat munculnya pandemi COVID-19 yang 
+membuat setiap proses perkuliahan terganggu. Seluruh materi, informasi, dan juga latihan soal untuk mata kuliah OS
+dapat diakses di https://os.vlsm.org/. Mata kuliah OS sendiri mempunyai fasilitas demo untuk memfasilitasi serta 
+mendukung para mahasiswa untuk mempelajari setiap materi serta dapat dituntaskan guna mendapatkan pemahaman dan 
+pendalaman materi. Mencoba dan memahami demo merupakan kegiatan kami selaku mahasiswa mata kuliah OS untuk setiap 
+minggunya. Selain mengerjakan demo yang disediakan, kami juga membuat sebuah memo berkala untuk mencatat apa saja 
+yang telah kami pelajari untuk setiap minggunya. Selain itu, dibuat pula grup WhatsApp untuk memperlancar 
+komunikasi dengan dosen serta menyimpan dokumentasi hasil pembelajaran di kelas (foto papan tulis). Untuk 
+pembelajaran pada masa PJJ, pertemuan kelas yang biasanya dilakukan 2x seminggu diganti dengan diskusi pada 
+forum di scele. Dosen juga menyediakan video pembelajaran online untuk memperdalam pemahaman mahasiswa.
 
 2) Bandingkan pelaksanaan pengajaran sebelum dan sesudah UTS.
 ==============================================================
