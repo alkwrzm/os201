@@ -39,15 +39,30 @@ UTS OS :
 
 UTS lainnya :
 
-- Soal mata kuliah Sistem Informasi Akuntansi hanya terdiri dari pilihan ganda
-- Soal mata kuliah Sistem-Sistem Perusahaan terdiri dari pilihan ganda, benar atau salah, dan esai
-- Soal mata kuliah Basis Data terdiri dari pilihan ganda dan esai
-- Soal mata kuliah Statistika dan Probabilitas dan Aljabar Linear terdiri dari esai
-- Pelaksanaan ujian berbasis scele
-- Untuk soal pilihan ganda dan benar atau salah berbentuk kuis
-- Untuk soal esai dikerjakan pada kertas, lalu di foto dan di unggah ke SCELE
-- Soal mata kuliah Analisis Numerik terdiri dari esai dan membuat program. Soal esai dikelompokkan dengan topik masing-masing dengan tiap kelompok soal terdiri atas banyak soal. Mahasiswa dibebaskan memilih soal, namun diwajibkan untuk mengisi minimal satu dari setiap topik yang diujikan dan diperhatikan agar dapat mencapai 100 poin. Jawaban di foto dan di unggah ke SCELE.
-- Soal mata kuliah Advanced Program terdiri dari pilihan ganda, isian, dan mengedit program melalui GitLab. Pilihan ganda dan isian dilakukan di SCELE. Untuk sesi edit program, terdiri dari 3 sesi waktu.
+- General
+Pelaksanaan ujian berbasis scele
+Untuk soal pilihan ganda dan benar atau salah berbentuk kuis
+Untuk soal esai dikerjakan pada kertas, lalu di foto dan di unggah ke SCELE
+
+- SIAK
+Soal mata kuliah Sistem Informasi Akuntansi hanya terdiri dari pilihan ganda
+
+- SSP
+Soal mata kuliah Sistem-Sistem Perusahaan terdiri dari pilihan ganda, benar atau salah, dan esai
+
+- BasDat
+Soal mata kuliah Basis Data terdiri dari pilihan ganda dan esai
+
+- StatProb
+Soal mata kuliah Statistika dan Probabilitas dan Aljabar Linear terdiri dari esai
+
+- Anum
+Soal mata kuliah Analisis Numerik terdiri dari esai dan membuat program. Soal esai dikelompokkan dengan topik masing-masing dengan tiap kelompok soal terdiri atas banyak soal. Mahasiswa dibebaskan memilih soal, namun diwajibkan untuk mengisi minimal satu dari setiap topik yang diujikan dan diperhatikan agar dapat mencapai 100 poin. Jawaban di foto dan di unggah ke SCELE.
+
+- Adpro
+Soal mata kuliah Advanced Program terdiri dari pilihan ganda, isian, dan mengedit program melalui GitLab. Pilihan ganda dan isian dilakukan di SCELE. Untuk sesi edit program, terdiri dari 3 sesi waktu.
+
+- TBA
 Soal mata kuliah Teori Bahasa dan Automata terdiri dari esai melalui Aren. Mahasiswa melakukan scan dan mengunggahnya ke server Aren.
 
 4) Bandingkan pelaksanaan UAS OS dengan UAS lainnya.
